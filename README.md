@@ -22,7 +22,14 @@ result_test.ipynb:
 
 
 ## The original unet work architecture 
-![1](./read_md/1.png){: width="80%" height="80%"}
+![1](./read_md/1.png = 200x300)
+
+
+
+
+
+
+
 
 
 
@@ -39,6 +46,15 @@ result_test.ipynb:
 
 
 
+
+
+
+
+
+
+
+
+
 ## PSCAL VOC 2012 Segmentation data format
 ![3](./read_md/3.png)
 
@@ -48,8 +64,21 @@ result_test.ipynb:
 
 
 
+
+
+
+
+
+
+
+
 ## The test result is under picture left one is input right one is output
 ![4](./read_md/4.png) ![5](./read_md/5.png)
+
+
+
+
+
 
 
 
