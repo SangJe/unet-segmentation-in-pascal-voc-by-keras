@@ -1,25 +1,26 @@
 # unet-segmentation-in-pascal-voc-by-keras
 
 ## File description
-Data_prepare .ipynb : \n
-preparing_data_h5.ipynb: \n
-model.py: \n
-main.ipynb:
-result_test.ipynb:
+Data_prepare .ipynb :    #
+preparing_data_h5.ipynb:    #
+model.py:   #
+main.ipynb:  #
+result_test.ipynb:  #
 
 
-#### The original unet work architecture is 
-![1](./read_md/1.png){: width="100" height="100"}
+#### The original unet work architecture 
+![1](./read_md/1.png)
+#
 
 
+#### Revised unet to classify 21 classes
+![2](./read_md/2.png)
+#
 
-#### We need to 21 classes classification so our revised architecture is 
-![2](./read_md/2.png){: width="200" height="200"}
 
-
-
-#### I preprocessed pascal voc data along under picture
+#### PSCAL VOC 2012 Segmentation data format
 ![3](./read_md/3.png){: width="200" height="200"}
+#
 
 
 #### The test result is under picture left one is input right one is output
