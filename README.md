@@ -15,5 +15,5 @@ I preprocessed pascal voc data along under picture
 ![3](./read_md/3.png)
 
 
-The test result is
+The test result is under picture left one is input right one is output
 ![4](./read_md/4.png)  ![5](./read_md/5.png)
