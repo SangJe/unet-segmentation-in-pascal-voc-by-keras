@@ -22,7 +22,7 @@ result_test.ipynb:
 
 
 ## The original unet work architecture 
-![1](./read_md/1.png = 200x300)
+![1](./read_md/1.png =200x300)
 
 
 
