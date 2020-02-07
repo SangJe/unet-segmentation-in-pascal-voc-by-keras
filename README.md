@@ -9,7 +9,7 @@ result_test.ipynb:
 
 
 #### The original unet work architecture is 
-![1](./read_md/1.png){: width="200" height="200"}
+![1](./read_md/1.png){: width="100" height="100"}
 
 
 
